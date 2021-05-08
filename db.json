@@ -1,0 +1,18 @@
+{
+    "DataScience": { "startTime": "5000", "endTime": "120000" },
+    "ArtificialIntelligence": { "startTime": "19000", "endTime": "59000" },
+    "Definition": { "startTime": "19000", "endTime": "32000" },
+    "StongVsWeakAI": { "startTime": "33000", "endTime": "48000" },
+    "WeakAI": { "startTime": "33000", "endTime": "41000" },
+    "StrongAI": { "startTime": "42000", "endTime": "48000" },
+    "TransitionOfWeaktoStrong": { "startTime": "49000", "endTime": "59000" },
+    "MachineLearning": { "startTime": "60000", "endTime": "77400" },
+    "MLDefinition": { "startTime": "60000", "endTime": "64800" },
+    "SupervisedLearning": { "startTime": "65400", "endTime": "67800" },
+    "UnsupervisedLearning": { "startTime": "68400", "endTime": "72600" },
+    "DeepLearning": { "startTime": "78000", "endTime": "120000" },
+    "ArtificialNeuralNetwork": { "startTime": "79800", "endTime": "87000" },
+    "Hierarchy": { "startTime": "87600", "endTime": "93000" },
+    "Interpret": { "startTime": "93600", "endTime": "120000" }
+
+}
